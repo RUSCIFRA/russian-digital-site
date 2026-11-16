@@ -1,0 +1,232 @@
+/* =========================================================
+   Russian Digital · Components
+   Buttons, forms, chips, links
+   ========================================================= */
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  min-height: 48px;
+  padding: 0 var(--space-5);
+  border-radius: 8px;
+  border: 1px solid transparent;
+  font: 600 14px var(--font-body);
+  transition:
+    filter var(--duration-normal) var(--ease),
+    box-shadow var(--duration-normal) var(--ease),
+    background var(--duration-normal),
+    border-color var(--duration-normal),
+    color var(--duration-normal),
+    transform var(--duration-normal) var(--ease);
+  white-space: nowrap;
+}
+.btn:hover {
+  transform: translateY(-2px);
+}
+.btn:active {
+  transform: translateY(0);
+}
+
+.btn:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 3px;
+}
+
+.btn-primary {
+  background: var(--color-primary);
+  color: var(--color-on-primary);
+}
+
+.btn-primary:hover {
+  filter: brightness(1.12) saturate(1.05);
+  box-shadow: 0 8px 28px var(--glow-primary);
+}
+
+.btn-outline {
+  border-color: var(--color-border);
+  color: var(--color-text);
+}
+
+.btn-outline:hover {
+  border-color: var(--color-border-hover);
+  background: color-mix(in srgb, var(--brand-violet) 8%, transparent);
+}
+
+.btn-ghost {
+  color: var(--color-text-secondary);
+}
+
+.btn-ghost:hover { color: var(--color-text); }
+
+.btn-full { width: 100%; }
+
+/* Form fields */
+.field {
+  display: grid;
+  gap: var(--space-2);
+}
+
+.field label {
+  font: 500 13px var(--font-body);
+  color: var(--color-text-secondary);
+}
+
+.field input,
+.field textarea {
+  height: 48px;
+  background: var(--color-input-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--r-control);
+  padding: 0 var(--space-4);
+  color: var(--color-text);
+  font: 400 15px var(--font-body);
+  transition: border-color var(--duration-normal), box-shadow var(--duration-normal);
+}
+
+.field textarea {
+  height: 96px;
+  padding: 12px var(--space-4);
+  resize: vertical;
+}
+
+.field input::placeholder,
+.field textarea::placeholder {
+  color: var(--color-text-secondary);
+  opacity: 0.7;
+}
+
+.field input:hover,
+.field textarea:hover {
+  border-color: color-mix(in srgb, var(--brand-violet) 50%, transparent);
+}
+
+.field input:focus,
+.field textarea:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px var(--ring-primary);
+}
+
+/* Chips */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+
+.chip {
+  min-height: 40px;
+  padding: 0 14px;
+  border-radius: 8px;
+  border: 1px solid var(--color-border);
+  font: 500 13px var(--font-body);
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  transition: all var(--duration-fast);
+}
+
+.chip:hover {
+  border-color: var(--color-border-hover);
+  color: var(--color-text);
+}
+
+.chip.is-on {
+  border-color: var(--color-primary);
+  background: color-mix(in srgb, var(--brand-green) 12%, transparent);
+  color: var(--color-text);
+}
+
+.chip:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+/* Consent */
+.consent {
+  display: flex;
+  gap: var(--space-3);
+  align-items: flex-start;
+  font-size: 13px;
+  color: var(--color-text-secondary);
+  line-height: 1.4;
+}
+
+.consent input {
+  width: 18px;
+  height: 18px;
+  margin-top: 2px;
+  accent-color: var(--color-primary);
+  flex-shrink: 0;
+}
+
+.consent a {
+  color: var(--color-text);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.consent a:hover { color: var(--color-primary); }
+
+/* Links */
+.eco-link {
+  font: 600 14px var(--font-body);
+  color: var(--color-primary);
+}
+
+.eco-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* CTA row on dark partner panels */
+.partner-cta-row .btn-outline,
+.income-intro .btn-outline,
+.partner-levels .btn-outline {
+  color: var(--color-text);
+  border-color: rgba(0, 224, 135, 0.45);
+  background: transparent;
+}
+.partner-cta-row .btn-outline:hover,
+.income-intro .btn-outline:hover,
+.partner-levels .btn-outline:hover {
+  border-color: var(--color-primary);
+  background: rgba(0, 224, 135, 0.1);
+  color: var(--color-primary);
+}
+.partner-cta-row .btn-primary,
+.income-intro .btn-primary {
+  box-shadow: 0 0 0 1px rgba(0, 224, 135, 0.2);
+}
+
+
+/* Partner CTA buttons — equal width */
+.income-intro .btn,
+.partner-cta-row .btn {
+  min-width: 280px;
+  width: 100%;
+  max-width: 320px;
+  justify-content: center;
+}
+.income-intro {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0;
+}
+.income-intro .btn + .btn,
+.partner-cta-row .btn + .btn {
+  margin-top: 10px;
+}
+
+
+/* FIX partner equal */
+.income-intro .btn,
+.partner-cta-row .btn {
+  width: 100% !important;
+  max-width: 360px !important;
+  min-width: 0 !important;
+  box-sizing: border-box !important;
+}

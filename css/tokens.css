@@ -1,0 +1,128 @@
+/* =========================================================
+   Russian Digital · Design Tokens v2.0
+   Aligned with WEB BRAND BOOK & DIGITAL DESIGN SYSTEM
+   Source of Truth — hex only here
+   ========================================================= */
+
+:root {
+  color-scheme: dark;
+
+  /* ===== COLORS (Brand Book) ===== */
+  --bg: #021614;
+  --panel: #06241F;
+  --card: #082B27;
+  --deep: #031A18;
+  --navy: #14233F;
+
+  --green: #00E087;
+  --green-dim: #00b36a;
+  --violet: #8B3DFF;
+  --violet-line: #4A3AA0;
+  --violet-light: #B79CFF;
+
+  --text: #F3F6F5;
+  --muted: #9DB5AF;
+  --error: #FF5C7A;
+  --success: #00E087;
+
+  /* Aliases used across components */
+  --brand-green: var(--green);
+  --brand-green-dim: var(--green-dim);
+  --brand-violet: var(--violet);
+  --brand-ink: #022018;
+  --brand-error: var(--error);
+
+  --color-bg: var(--bg);
+  --color-bg-deep: #011311;
+  --color-surface: var(--panel);
+  --color-surface-2: var(--card);
+  --color-input-bg: var(--deep);
+
+  --color-text: var(--text);
+  --color-text-secondary: var(--muted);
+
+  --color-border: rgba(255, 255, 255, 0.08);
+  --color-border-hover: var(--violet);
+  --color-border-active: var(--green);
+
+  --color-primary: var(--green);
+  --color-on-primary: #022018;
+  --color-accent: var(--violet);
+
+  --glow-accent: rgba(139, 61, 255, 0.28);
+  --glow-primary: rgba(0, 224, 135, 0.22);
+  --ring-primary: rgba(0, 224, 135, 0.14);
+  --ring-error: rgba(255, 92, 122, 0.16);
+
+  /* Light sections (rhythm) */
+  --light-bg: #f4f7f6;
+  --light-surface: #ffffff;
+  --light-surface-2: #f0f4f3;
+  --light-text: #0a1f1c;
+  --light-text-secondary: #4a635e;
+  --light-text-muted: #6b807a;
+  --light-border: rgba(0, 0, 0, 0.08);
+  --light-primary: #00a86b;
+
+  /* ===== TYPOGRAPHY (Brand Book) ===== */
+  --fh: 'Unbounded', 'Montserrat', sans-serif;
+  --fb: 'Onest', 'Manrope', 'Segoe UI', Arial, sans-serif;
+  --fm: 'JetBrains Mono', ui-monospace, Consolas, monospace;
+
+  --font-display: var(--fh);
+  --font-body: var(--fb);
+  --font-mono: var(--fm);
+
+  /* ===== SPACING (Brand Book scale) ===== */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-7: 32px;
+  --space-8: 32px;
+  --space-9: 40px;
+  --space-10: 40px;
+  --space-11: 64px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-20: 80px;
+
+  /* ===== RADIUS (Brand Book) ===== */
+  --r-panel: 16px;
+  --r-card: 10px;
+  --r-inner: 8px;
+  --r-control: 8px;
+  --r-pill: 999px;
+
+  --radius-sm: 6px;
+  --radius-card: 8px;
+  --radius-md: var(--r-control);
+  --radius-lg: var(--r-card);
+  --radius-xl: var(--r-panel);
+  --radius-pill: var(--r-pill);
+
+  /* ===== LAYOUT ===== */
+  --container: 1160px;
+  --container-max: 1160px;
+  --grid-gap: 18px;
+  --page-padding: var(--space-5);
+
+  /* ===== MOTION ===== */
+  --ease: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --duration-fast: 180ms;
+  --duration-normal: 280ms;
+  --duration-slow: 350ms;
+  --duration-flow: 1600ms;
+
+  /* ===== Z-INDEX ===== */
+  --z-base: 1;
+  --z-dropdown: 100;
+  --z-sticky: 200;
+  --z-overlay: 300;
+  --z-modal: 400;
+  --z-toast: 500;
+
+  --header-h: 72px;
+}

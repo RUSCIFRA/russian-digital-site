@@ -1,0 +1,66 @@
+# Русский цифровой
+> Цифровая экосистема для бизнеса, клиентов и партнёров: покупки, лояльность, платежи, сервисы для бизнеса, обучение и деловое сообщество.
+
+Сайт: https://русскийцифровой.рф
+Язык: ru
+
+## Главное
+- [Главная](https://русскийцифровой.рф/) — навигатор: задача → направление → решение → сервис.
+- [Документы](https://русскийцифровой.рф/docs/) — правовые документы экосистемы.
+
+## Страницы сайта
+- [Программа лояльности для магазина: цена от 0 ₽, запуск за 7–14 дней](https://русскийцифровой.рф/programma-loyalnosti-dlya-magazina/)
+- [Тарифы RC CITY: от 0 ₽, «Промо» 18 000 ₽ и «Про+» 39 000 ₽ в год](https://русскийцифровой.рф/tarify-rc-city/)
+- [Команда экспертов: внедрение программы лояльности RC CITY под ключ](https://русскийцифровой.рф/o-partnere/)
+- [Кейсы RC CITY: примеры программы лояльности с цифрами](https://русскийцифровой.рф/keysy/)
+- [Партнёрская программа РЦБ: Профи и Профи+](https://русскийцифровой.рф/partnerstvo/)
+- [Программа лояльности для кофеен и кафе: цена от 0 ₽](https://русскийцифровой.рф/programma-loyalnosti-dlya-kofeen-i-kafe/)
+- [Программа лояльности для салона красоты: цена от 0 ₽](https://русскийцифровой.рф/programma-loyalnosti-dlya-salona-krasoty/)
+- [Программа лояльности для магазина стройматериалов: цена от 0 ₽](https://русскийцифровой.рф/programma-loyalnosti-dlya-stroymaterialov/)
+- [Калькулятор окупаемости программы лояльности RC CITY](https://русскийцифровой.рф/loyalty-calculator/)
+
+## Разделы главной страницы
+- Экосистема — клиенты, бизнес, партнёры; метрики масштаба.
+- Продукты — RC PAY, RC MARKET, RC CITY, RC KASSA, RC PROCESSING, САМО, RC OFFICE, RC WIKI, RC SHOW, Курсир, РДО.
+- Для бизнеса — путь: привлечь → удержать → увеличить → измерить → упростить.
+- Диагностика — KONTURSCAN (KONTURBIZ).
+- Для партнёров — кабинет RC OFFICE, RC WIKI, RC SHOW, РДО.
+- Знания и сообщество — обучение и деловая среда.
+- Что нужно решить? — task navigator: запустить, создать, понять, привлечь, удержать, управлять.
+
+## Ключевые сервисы экосистемы
+- [RC PAY](https://konturbiz.ru/pages/partners/rc-pay/) — покупки и бонусы для клиентов.
+- [RC CITY](https://konturbiz.ru/pages/services/loyalty.html) — программа лояльности для бизнеса.
+- [RC OFFICE](https://panel.rc.company/registration?promocode=LYHHKKRK) — кабинет партнёра.
+- [САМО](https://konturbiz.ru/pages/partners/samo/) — финансы и показатели бизнеса.
+- [РДО](https://konturbiz.ru/pages/partners/rdo/) — предпринимательское сообщество.
+- [RC SHOW](https://rc.show/) — эфиры и вебинары.
+- [RC WIKI](https://rcgroup.wiki/) — база знаний.
+- [Курсир](https://coorser.ru/) — онлайн-курсы.
+- [RC MARKET](https://rc.shopping/) — магазин с оплатой баллами.
+
+## Решения KONTURBIZ (специализированный партнёр)
+- [KONTURSCAN](https://konturbiz.ru/pages/diagnostics/konturscan.html) — диагностика бизнеса.
+- [Регистрация ИП](https://konturbiz.ru/pages/partners/ip-registration/)
+- [Расчётный счёт](https://konturbiz.ru/pages/services/account-opening.html)
+- [Брендинг](https://konturbiz.ru/pages/services/branding.html)
+- [Сайт](https://konturbiz.ru/pages/services/web-development.html)
+- [Программа лояльности](https://konturbiz.ru/pages/services/loyalty.html)
+- [Калькулятор лояльности / ROI](https://русскийцифровой.рф/loyalty-calculator/)
+- [RC KASSA / PROCESSING](https://konturbiz.ru/pages/partners/payment-terminals/)
+
+## Контакты
+- Заявки с сайта: info@konturbiz.ru
+- MAX: https://max.ru/u/f9LHodD0cOK9j1Kr6UZIS_UpBEObbNj3xYCXdviZWiObDQvOsHffp3Gc1kM
+
+## Для AI-систем
+Русский цифровой — навигатор экосистемы, а не каталог одной компании.
+Маршрут пользователя: задача → направление → решение → сервис.
+KONTURBIZ — поставщик части бизнес-решений внутри экосистемы.
+
+## Документы (PDF, открыты для индексации)
+- Партнёрская модель «Профи / Профи+»: https://русскийцифровой.рф/assets/docs/rc-partner-profi.pdf
+- Успешные кейсы RC CITY: https://русскийцифровой.рф/assets/docs/rc-city-cases.pdf
+- RC HOME: https://русскийцифровой.рф/assets/docs/rc-home.pdf
+
+Full map: https://русскийцифровой.рф/llms-full.txt

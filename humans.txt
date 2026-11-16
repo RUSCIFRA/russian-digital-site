@@ -1,0 +1,10 @@
+/* TEAM */
+Brand: Русский цифровой
+Site: https://русскийцифровой.рф
+Partner / production: KONTURBIZ
+Partner site: https://konturbiz.ru/
+
+/* SITE */
+Purpose: цифровая экосистема для клиентов, бизнеса и партнёров.
+Language: Russian
+Standards: HTML5, CSS Design System v2.0

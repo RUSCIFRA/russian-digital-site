@@ -1,0 +1,200 @@
+{
+  "site": "Русский цифровой",
+  "base_url": "https://русскийцифровой.рф/",
+  "language": "ru",
+  "generated": "2026-10-08",
+  "description": "Machine-readable index of Русский цифровой public pages for search and AI retrieval.",
+  "sitemap": "https://русскийцифровой.рф/sitemap.xml",
+  "entity": {
+    "name": "Русский цифровой",
+    "type": "DigitalEcosystem",
+    "role": "Навигатор экосистемы сервисов для клиентов, бизнеса и партнёров",
+    "partner": {
+      "name": "KONTURBIZ",
+      "url": "https://konturbiz.ru/",
+      "role": "Специализированный поставщик цифровых решений для бизнеса"
+    }
+  },
+  "pages": [
+    {
+      "url": "https://русскийцифровой.рф/",
+      "path": "/",
+      "title": "Русский цифровой — цифровая экосистема для бизнеса, клиентов и партнёров",
+      "description": "Цифровая экосистема: продукты, сервисы, решения для запуска и развития бизнеса, лояльность, платежи, обучение и деловое сообщество.",
+      "h1": "Цифровая экосистема, в которой проще решать задачи бизнеса",
+      "type": "WebPage",
+      "sections": [
+        {
+          "id": "ecosystem",
+          "name": "Экосистема"
+        },
+        {
+          "id": "products",
+          "name": "Продукты"
+        },
+        {
+          "id": "business",
+          "name": "Для бизнеса"
+        },
+        {
+          "id": "diagnostics",
+          "name": "Диагностика KONTURSCAN"
+        },
+        {
+          "id": "partners",
+          "name": "Для партнёров"
+        },
+        {
+          "id": "knowledge",
+          "name": "Знания и сообщество"
+        },
+        {
+          "id": "contact",
+          "name": "Контакт / заявка"
+        },
+        {
+          "id": "solutions",
+          "name": "Что нужно решить?"
+        }
+      ]
+    },
+    {
+      "url": "https://русскийцифровой.рф/docs/",
+      "path": "/docs/",
+      "title": "Документы — Русский цифровой",
+      "description": "Правовые документы экосистемы Русский цифровой.",
+      "h1": "Документы",
+      "type": "WebPage"
+    },
+    {
+      "url": "https://русскийцифровой.рф/programma-loyalnosti-dlya-magazina/",
+      "path": "/programma-loyalnosti-dlya-magazina/",
+      "title": "Программа лояльности для магазина: цена от 0 ₽, запуск за 7–14 дней",
+      "type": "WebPage"
+    },
+    {
+      "url": "https://русскийцифровой.рф/docs/privacy/",
+      "path": "/docs/privacy/",
+      "title": "Политика обработки персональных данных — Русский цифровой",
+      "type": "WebPage"
+    },
+    {
+      "url": "https://русскийцифровой.рф/tarify-rc-city/",
+      "path": "/tarify-rc-city/",
+      "title": "Тарифы RC CITY: от 0 ₽, «Промо» 18 000 ₽ и «Про+» 39 000 ₽ в год",
+      "type": "WebPage"
+    },
+    {
+      "url": "https://русскийцифровой.рф/o-partnere/",
+      "path": "/o-partnere/",
+      "title": "Команда экспертов: внедрение программы лояльности RC CITY под ключ — Русский цифровой",
+      "type": "WebPage"
+    },
+    {
+      "url": "https://русскийцифровой.рф/keysy/",
+      "path": "/keysy/",
+      "title": "Кейсы RC CITY: примеры программы лояльности с цифрами — Русский цифровой",
+      "type": "WebPage"
+    },
+    {
+      "url": "https://русскийцифровой.рф/partnerstvo/",
+      "path": "/partnerstvo/",
+      "title": "Партнёрская программа РЦБ: Профи и Профи+ — свой бизнес на готовой инфраструктуре",
+      "type": "WebPage"
+    },
+    {
+      "url": "https://русскийцифровой.рф/programma-loyalnosti-dlya-kofeen-i-kafe/",
+      "path": "/programma-loyalnosti-dlya-kofeen-i-kafe/",
+      "title": "Программа лояльности для кофеен и кафе: цена от 0 ₽ — Русский цифровой",
+      "type": "WebPage"
+    },
+    {
+      "url": "https://русскийцифровой.рф/programma-loyalnosti-dlya-salona-krasoty/",
+      "path": "/programma-loyalnosti-dlya-salona-krasoty/",
+      "title": "Программа лояльности для салона красоты: цена от 0 ₽ — Русский цифровой",
+      "type": "WebPage"
+    },
+    {
+      "url": "https://русскийцифровой.рф/programma-loyalnosti-dlya-stroymaterialov/",
+      "path": "/programma-loyalnosti-dlya-stroymaterialov/",
+      "title": "Программа лояльности для магазина стройматериалов: цена от 0 ₽ — Русский цифровой",
+      "type": "WebPage"
+    },
+    {
+      "url": "https://русскийцифровой.рф/loyalty-calculator/",
+      "path": "/loyalty-calculator/",
+      "title": "Калькулятор окупаемости программы лояльности RC CITY — Русский цифровой",
+      "type": "WebPage"
+    }
+  ],
+  "products": [
+    {
+      "name": "RC PAY",
+      "url": "https://konturbiz.ru/pages/partners/rc-pay/",
+      "audience": "client"
+    },
+    {
+      "name": "RC MARKET",
+      "url": "https://rc.shopping/",
+      "audience": "client"
+    },
+    {
+      "name": "RC CITY",
+      "url": "https://konturbiz.ru/pages/services/loyalty.html",
+      "audience": "business"
+    },
+    {
+      "name": "RC KASSA / PROCESSING",
+      "url": "https://konturbiz.ru/pages/partners/payment-terminals/",
+      "audience": "business"
+    },
+    {
+      "name": "САМО",
+      "url": "https://konturbiz.ru/pages/partners/samo/",
+      "audience": "business"
+    },
+    {
+      "name": "RC OFFICE",
+      "url": "https://panel.rc.company/registration?promocode=LYHHKKRK",
+      "audience": "partner"
+    },
+    {
+      "name": "RC WIKI",
+      "url": "https://rcgroup.wiki/",
+      "audience": "partner"
+    },
+    {
+      "name": "RC SHOW",
+      "url": "https://rc.show/",
+      "audience": "ecosystem"
+    },
+    {
+      "name": "Курсир",
+      "url": "https://coorser.ru/",
+      "audience": "ecosystem"
+    },
+    {
+      "name": "РДО",
+      "url": "https://konturbiz.ru/pages/partners/rdo/",
+      "audience": "ecosystem"
+    }
+  ],
+  "documents": [
+    {
+      "title": "Партнёрская модель Русский цифровой — Профи и Профи+",
+      "url": "https://русскийцифровой.рф/assets/docs/rc-partner-profi.pdf",
+      "type": "application/pdf",
+      "description": "Презентация партнёрской модели: Свой бизнес на готовой инфраструктуре. Тарифы Профи (старт) и Профи+ (масштаб)."
+    },
+    {
+      "title": "Кейсы RC CITY",
+      "url": "https://русскийцифровой.рф/assets/docs/rc-city-cases.pdf",
+      "type": "application/pdf"
+    },
+    {
+      "title": "RC HOME",
+      "url": "https://русскийцифровой.рф/assets/docs/rc-home.pdf",
+      "type": "application/pdf"
+    }
+  ]
+}
